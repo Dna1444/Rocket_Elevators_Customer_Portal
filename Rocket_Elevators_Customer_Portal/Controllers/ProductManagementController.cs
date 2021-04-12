@@ -13,6 +13,7 @@ namespace Rocket_Elevators_Customer_Portal.Controllers
 {
     public class ProductManagementController : Controller
     {
+        [Authorize]
         // GET: ProductManagement
         public async Task<ActionResult> Index()
         {

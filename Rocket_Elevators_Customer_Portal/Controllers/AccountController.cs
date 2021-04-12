@@ -177,7 +177,6 @@ namespace Rocket_Elevators_Customer_Portal.Controllers
             }
 
             // If we got this far, something failed, redisplay form
-            ViewBag.Message = "Get a life you hobo";
             return View(model);
         }
 

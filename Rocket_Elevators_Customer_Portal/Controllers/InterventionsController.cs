@@ -12,6 +12,7 @@ namespace Rocket_Elevators_Customer_Portal.Controllers
 {
     public class InterventionsController : Controller
     {
+        [Authorize]
         // GET: Interventions
         public async Task<ActionResult> Index()
         {
