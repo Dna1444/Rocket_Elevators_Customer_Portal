@@ -142,6 +142,5 @@ C:\Users\d_duq\OneDrive\Bureau\week 11\Rocket_Elevators_Customer_Portal\Rocket_E
 C:\Users\d_duq\OneDrive\Bureau\week 11\Rocket_Elevators_Customer_Portal\Rocket_Elevators_Customer_Portal\bin\System.Text.Json.xml
 C:\Users\d_duq\OneDrive\Bureau\week 11\Rocket_Elevators_Customer_Portal\Rocket_Elevators_Customer_Portal\bin\System.Threading.Tasks.Extensions.xml
 C:\Users\d_duq\OneDrive\Bureau\week 11\Rocket_Elevators_Customer_Portal\Rocket_Elevators_Customer_Portal\bin\System.ValueTuple.xml
-C:\Users\d_duq\OneDrive\Bureau\week 11\Rocket_Elevators_Customer_Portal\Rocket_Elevators_Customer_Portal\obj\Release\Rocket_Elevators_Customer_Portal.csprojAssemblyReference.cache
 C:\Users\d_duq\OneDrive\Bureau\week 11\Rocket_Elevators_Customer_Portal\Rocket_Elevators_Customer_Portal\obj\Release\Rocket_Elevators_Customer_Portal.Migrations.InitialCreate.resources
 C:\Users\d_duq\OneDrive\Bureau\week 11\Rocket_Elevators_Customer_Portal\Rocket_Elevators_Customer_Portal\obj\Release\Rocket_Elevators_Customer_Portal.csproj.GenerateResource.cache
